@@ -1,6 +1,6 @@
 var express = require('express')
 var router = express.Router()
-var template = require('../lib/14.1_template.js');
+var template = require('../lib/00_template.js');
 
 router.get('/', function(request, response){
     var title = 'Welcome';

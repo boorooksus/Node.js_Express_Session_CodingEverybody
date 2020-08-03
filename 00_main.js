@@ -4,8 +4,8 @@ var port = 3000
 var fs = require('fs');
 var bodyParser = require('body-parser')
 var compression = require('compression');
-var topicRouter = require('./routes/14.2_topic.js');
-var indexRouter = require('./routes/14.3_index.js');
+var topicRouter = require('./routes/00_topic.js');
+var indexRouter = require('./routes/00_index.js');
 // helmet 사용
 var helmet = require('helmet');
 
