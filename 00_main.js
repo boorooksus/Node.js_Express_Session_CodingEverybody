@@ -35,8 +35,4 @@ app.use(function (err, req, res, next) {
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
 
 
-// 보안
-// express.com -> advanced topics -> security best practices
-// npm에서 helmet, nsp(-g) install
-// nsp: npm에서 취약점 있는지 조사
-// 추가 - nsp는 더이상 사용 안됨. 대신 audit 사용
+// 
