@@ -10,7 +10,7 @@
 
 ***
 
-#### 생활코딩(Opentutorials) 쎄션관 인증 공부 자료입니다.
+#### 생활코딩(Opentutorials) 쎄션 인증 공부 자료입니다.
 
 #### 참고 자료
 >"Express Session & Auth," Opentutorials, last modified JUL 29, 2018, accessed AUG 05, 2020, <https://opentutorials.org/course/3400>
